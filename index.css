@@ -1,0 +1,110 @@
+
+
+body, html { 
+margin: 0;
+padding: 0;
+}
+
+body { 
+background: url("https://i.imgur.com/SPS7ZPs.png") repeat;
+text-align: center;
+padding : 0; 
+font: 15px "Trebuchet MS", sans-serif;
+color: #262626;
+margin: 5px 0;
+}
+
+#wholebox { 
+margin : 0 auto; 
+text-align : left; 
+padding : 5px; 
+width: 740px;
+} 
+
+#butterfly { 
+margin : 0 auto; 
+padding : 0px; 
+width: 1000px;
+background: url('https://i.imgur.com/ttPc870.png');
+} 
+
+#sidebar { 
+width: 197px;
+float: right;
+padding: 8px;
+background: #FFF;
+border: 2px #380F53 solid;
+border-radius: 10px;
+margin-top: 10px;
+} 
+
+#bob { 
+width: 197px;
+float: right;
+padding: 8px;
+background: #FFF;
+border: 2px #380F53 solid;
+border-radius: 10px;
+margin-top: 10px;
+} 
+
+iframe {
+margin: none;
+padding: none;
+background: white;
+border: none;
+}
+
+#main {
+width: 509px;
+height : 728px;
+
+overflow: auto;
+float: left;
+background: #FFF;
+border: 2px #380F53 solid;
+border-radius: 10px;
+margin-top: 10px;
+display:inline-block;
+}
+
+#footer {
+clear: both; 
+padding: 10px; 
+height : 25px;
+text-align: center;
+background: #FFF; 
+font: 12px "Trebuchet MS", sans-serif;
+border: 2px #380F53 solid;
+border-radius: 10px;
+position: relative;
+top: 10px;
+margin-bottom: 10px;
+}
+
+#news {
+width: 720px;
+height : 20px;
+overflow: auto;
+float: left;
+padding: 8px;
+background: #FFF;
+border: 2px #380F53 solid;
+border-radius: 10px;
+margin-top: 10px;
+display:inline-block;
+}
+
+#title {
+width: 736px;
+height: 105px;
+text-align: center;
+color: #5f436b;
+
+background: #829FB5 url("https://i.imgur.com/gud2AGQ.png");
+padding: 40px 0;
+font: 50px 'flower';
+border: 2px #380F53 solid;
+border-radius: 10px;
+
+}
